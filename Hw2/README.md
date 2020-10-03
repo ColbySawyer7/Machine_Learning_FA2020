@@ -6,5 +6,5 @@ Uba Obasi // obasiu17@students.ecu.edu
 
 Install: pip3 install yellowbrick
 
-K with best Accuracy  = 
+K with best Accuracy  = 3
 
